@@ -329,6 +329,17 @@ body {
     padding: 32px 0;
 }
 
+.social-list {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.social-one {
+    width: 40px;
+    height: 40px;
+}
+
 .our-portfolio {
     background-color: #FFFFFF;
     padding: 120px 0;
