@@ -53,13 +53,11 @@ body {
 
 .header-item.current {
     position: relative;
-    color: #404bbf;
 }
 
 .header-item.current::after {
     content: '';
     position: absolute;
-    color: #404bbf;
     width: 100%;
     left: 0;
     bottom: -1px;
