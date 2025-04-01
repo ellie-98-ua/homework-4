@@ -51,8 +51,9 @@ body {
     color: #404bbf;
 }
 
-.header-item.current {
+.header-item-link.current {
     position: relative;
+    color: #404bbf;
 }
 
 .header-item-link.current::after {
