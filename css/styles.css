@@ -55,7 +55,7 @@ body {
     position: relative;
 }
 
-.header-item-дштл.current::after {
+.header-item-link.current::after {
     content: '';
     position: absolute;
     width: 100%;
